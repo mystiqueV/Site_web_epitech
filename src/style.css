@@ -39,6 +39,11 @@ nav ul li a {
     text-decoration: none;
 }
 
+.text-hover:hover {
+    color: #3c6ae7;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
 #hero {
     background-image: url('../content/paysage.png');
     background-size: cover;
